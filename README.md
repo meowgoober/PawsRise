@@ -27,3 +27,5 @@ Sometimes. OpenVPN requires you to enable services to make it start and enable i
 Now just run PawsRise.py and itll download all the stuff for you. You will select a server and itll connect to it.
 
 (licensed under the apache 2.0 license)
+
+![image](https://github.com/user-attachments/assets/cc0d7e04-b8ee-4886-ac2e-aa28e99db75b)
