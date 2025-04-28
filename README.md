@@ -4,7 +4,8 @@
 A simple python script to connect to Riseup VPN Services
 (i suck at making README's)
 # How to install:
-First. You need OpenVPN. This is simple. 
+First. You need OpenVPN. The ways to install it are below.
+Then. Download PawsRise.py via git or Direct Download.
 # Fedora
 
 sudo dnf update -y
